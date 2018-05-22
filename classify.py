@@ -1,3 +1,4 @@
+"""ELEN3020 classify.py, written by Prof. Scott Hazelhurst."""
 #!/usr/bin/env python3
 
 
